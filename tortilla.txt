@@ -1,4 +1,6 @@
-- Huevos
-- Patatas
-- Aceite
-- Sal
+- Huevos 0.5
+- Patatas 0.1
+- Aceite 1.0
+- Sal 0.01
+Precio p/p 1.61
+
