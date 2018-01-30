@@ -2,4 +2,5 @@
 - Patatas
 - Aceite
 - Sal
-El precio no estaba. 5 € 
+El precio no estaba. 5 €
+con iva es 5.50
